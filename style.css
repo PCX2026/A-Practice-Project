@@ -20,7 +20,7 @@
     height: 70px;
 }
 .logo{
-    color: #ff7200;
+    color: skyblue;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -52,7 +52,7 @@ ul li a{
     transition: 0.4s ease-in-out;
 }
 ul li a:hover{
-    color: #ff7200;
+    color: skyblue;
 }
 .search{
     width: 330px;
@@ -64,26 +64,26 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid #ff7200;
+    border: 2px solid skyblue;
     margin-top: 13px;
-    color: #fff;
+    color: black;
     border-right: none;
     font-size: 16px;
     float: left;
     padding: 10px;
-    border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
+    border-bottom-left-radius: 1px;
+    border-top-left-radius: 7px;
 }
 .btn{
     width: 100px;
     height: 40px;
-    background: #ff7200;
-    border: 2px solid #ff7200;
+    background: skyblue;
+    border: 2px solid skyblue;
     margin-top: 13px;
-    color: #fff;
+    color: white;
     font-size: 15px;
-    border-bottom-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 1px;
 }
 .btn:focus{
     outline: none;
